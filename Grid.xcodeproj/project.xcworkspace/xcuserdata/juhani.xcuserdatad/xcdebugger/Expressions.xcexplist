@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Node::update():Node.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "RingCurtain::draw():RingCurtain.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Connection::Connection(Node*, Node*, float):Connection.h">
+      </ContextState>
+      <ContextState
+         contextName = "ofApp::setup():ofApp.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "RingCurtain::setup(float, int, int, int):RingCurtain.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ofMainLoop::pollEvents() [inlined]:ofMainLoop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Connection::update():Connection.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "RingCurtain::update():RingCurtain.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Connection::draw():Connection.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofApp::update():ofApp.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
